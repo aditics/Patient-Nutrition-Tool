@@ -69,6 +69,8 @@ This inlcuded improved patient quality of care (Roberts 2017) [2]
 
 # References
 [1] Bresnick, J. (2017). Nutrition Risk Assessment Saves $4.8M, Cuts Hospital Readmissions. Xtelligent Healthcare Media, LLC. Retrieved from https://healthitanalytics.com/news/nutrition-risk-assessment-saves-4.8m-cuts-hospital-readmissions.
+
 [2] Roberts, S., Marshall, A., & Chaboyer, W. (2017). Hospital Staffs’ Perceptions of an Electronic Program to Engage Patients in Nutrition Care at the Bedside: A Qualitative Study. BMC Medical Informatics and Decision Making. Retrieved from https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-017-0495-4.
+
 [3] Weiss, A. J., Fingar, K.R., Barrett, M.L., Elixhauser, A., Steiner, C.A., Guenter, P., & Brown, M.H. (2016). Characteristics of Hospital Stays Involving Malnutrition. Agency for Healthcare Research and Quality. Retrieved from http://www.hcup-us.ahrq.gov/reports/statbriefs/sb210-Malnutrition-Hospital-Stays-2013.pdf.
 
