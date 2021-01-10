@@ -1,20 +1,20 @@
-Project Mentor: Raj Vansia
-Team Members: Nicholas Kousen, Wanhu Tang, Jibiao Li, Chuqiao Dong, Zhao Huang, and Aditi Shetty
+####  Project Mentor: Raj Vansia
+####  Team Members: Nicholas Kousen, Wanhu Tang, Jibiao Li, Chuqiao Dong, Zhao Huang, and Aditi Shetty
 
 # Project Research
-  ##  Industry Problem
-  “Malnutrition (undernutrition) occurs among approximately 3 percent of adult hospital inpatient stays in the United States...” [3] (Weiss 2016).
+##  Industry Problem
+ “Malnutrition (undernutrition) occurs among approximately 3 percent of adult hospital inpatient stays in the United States...” [3] (Weiss 2016).
   
   ![1](images/1.png)
   ![2](images/2.png)
   ![3](images/3.png)
   ![4](images/4.png)
 
-  ##  Domain Gaps
+##  Domain Gaps
   “Implementing a patient nutrition care program at four Chicago-area hospitals helped Advocate Health Care accrue more than $4.8 million dollars in savings by reducing hospital
 readmissions and shortening inpatient stays...” [1] (Bresnick 2017).
 
-  ##  End User Interviews
+##  End User Interviews
   Hospital staff reacted positively to electronic patient nutrition tools Hospital staff felt that the tools were easy to use and understand Hospital staff recognized the benefits for both patients and doctors
 This inlcuded improved patient quality of care (Roberts 2017) [2]
 
@@ -27,20 +27,20 @@ This inlcuded improved patient quality of care (Roberts 2017) [2]
   * How?	→ Through automatic filtering and user-friendly UI
 
 # View
-  ##  Login and Sign up
+##  Login and Sign up
   ![5](images/5.png)
   ![6](images/6.png)
   ![7](images/7.png)
   ![8](images/8.png)
   ![9](images/9.png)
   
-  ##  Admin View
+##  Admin View
   ![10](images/10.PNG)
   ![11](images/11.PNG)
   ![12](images/12.PNG)
   ![13](images/13.PNG)
   
-  ##  Meal Order View
+##  Meal Order View
   ![14](images/14.PNG)
   ![15](images/15.PNG)
   ![16](images/16.PNG)
@@ -53,7 +53,7 @@ This inlcuded improved patient quality of care (Roberts 2017) [2]
 # Database Table
   ![22](images/22.PNG)
   
-  ##  Table Relationships
+##  Table Relationships
    ![23](images/23.PNG)
    
 # Deployment Pipeline
