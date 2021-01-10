@@ -3,7 +3,12 @@ Team Members: Nicholas Kousen, Wanhu Tang, Jibiao Li, Chuqiao Dong, Zhao Huang, 
 
 # Project Research
   ##  Industry Problem
-    “Malnutrition (undernutrition) occurs among approximately 3 percent of adult hospital inpatient stays in the United States...” [3] (Weiss 2016).
+  “Malnutrition (undernutrition) occurs among approximately 3 percent of adult hospital inpatient stays in the United States...” [3] (Weiss 2016).
+  
+  ![1](images/1.png)
+  ![2](images/2.png)
+  ![3](images/3.png)
+  ![4](images/4.png)
 
   ##  Domain Gaps
     “Implementing a patient nutrition care program at four Chicago-area hospitals helped Advocate Health Care accrue more than $4.8 million dollars in savings by reducing hospital
@@ -20,6 +25,39 @@ This inlcuded improved patient quality of care (Roberts 2017) [2]
   * Where?	→ On a web application interface
   * Why?	→ To promote a safer and healthier hospital stay
   * How?	→ Through automatic filtering and user-friendly UI
+
+# View
+  ##  Login and Sign up
+  ![5](images/5.png)
+  ![6](images/6.png)
+  ![7](images/7.png)
+  ![8](images/8.png)
+  ![9](images/9.png)
+  
+  ##  Admin View
+  ![10](images/10.png)
+  ![11](images/11.png)
+  ![12](images/12.png)
+  ![13](images/13.png)
+  
+  ##  Meal Order View
+  ![14](images/14.png)
+  ![15](images/15.png)
+  ![16](images/16.png)
+  ![17](images/17.png)
+  ![18](images/18.png)
+  ![19](images/19.png)
+  ![20](images/20.png)
+  ![21](images/21.png)
+  
+# Database Table
+  ![22](images/22.png)
+  
+  ##  Table Relationships
+   ![23](images/23.png)
+   
+# Deployment Pipeline
+  ![24](images/24.png)
   
 # Discussion of Future Plans and Opportunities
   * Include additional application functionalities
