@@ -27,7 +27,30 @@ This inlcuded improved patient quality of care (Roberts 2017) [2]
   * How?	→ Through automatic filtering and user-friendly UI
 
 # View
+
+## Connect to Patient Nutrition Tool
+ Patient Nutrition Tool is an amazing web application to ensure customized nutrition and restriction needs of patients.
+ To use the web application, simply open a web browser and enter url: https://apps.hdap.gatech.edu/pntapp/.
+ 
 ##  Login and Sign up
+ Patient Nutrition Tool is designed to use for both clinical administrative staff and patients to order food based on patient nutrition needs and restriction.
+ Once connected to the main page, the user will see a Sign Up and Log In button. If the user has never signed up before, please click on the Sign Up to sign up. The user should be already entered to the database by the database administrator.
+ 
+ Depending on the user type, the Sign Up page have two options. Click Admin for clinical staff and Patient for patients to sign up. On the Admin Sign Up or Patient Sign Up page, enter the following information:
+
+ First Name: please enter your REAL name as recorded in the database to sign up, otherwise the user won't be able to sign in.
+ Middle Name: please enter your REAL middle name; this can be left blank
+ Last Name: please enter your REAL name as recorded in the database to sign up, otherwise the user won't be able to sign in.
+ username: please enter a username
+ password: please enter a password
+ After all the information is entered, click the Sign Up button to finish the sign up process.
+
+ Log in
+  The Log In button is available on the home page, Sign Up page, Admin Sign Up page and Patient Sign Up page. Depending on the user type, the Log In page have two options. Click Admin for clinical staff and Patient for patients to Log In. On the Admin Log In or Patient Log In page, enter the following information:
+
+ username: please enter a username
+ password: please enter a password
+ 
   ![5](images/5.png)
   ![6](images/6.png)
   ![7](images/7.png)
@@ -35,12 +58,20 @@ This inlcuded improved patient quality of care (Roberts 2017) [2]
   ![9](images/9.png)
   
 ##  Admin View
+ If the user logged in is an administrative staff, the user will be directed to the admin view homepage. Meal orders of all patients will be displayed here. For each order, Patient Name, Gest ID, whether the order is Doctor Approved, Meal Type and Ordered Food, Order Date.
+
+ Clicking the Log Out button in the upper right corner will log the user out and direct the user to the mainpage.
+
   ![10](images/10.PNG)
   ![11](images/11.PNG)
   ![12](images/12.PNG)
   ![13](images/13.PNG)
   
 ##  Meal Order View
+ If the user logged in is a patient, the user will be directed to the patient view homepage. Meal orders for that patient will be displayed here, including First Name, Last Name, Allergen, All Meal Orders. For each order, Order Type, Food, Calories and Price will be displayed. In addition, Available Meal is also displayed. For each existing meal order, click Delete button will delete the order. For available meal order, click the ADD button will add the order to the existing order.
+
+ Clicked the Log Out button in the upper left corner will log the user out and direct the user to the mainpage.
+
   ![14](images/14.PNG)
   ![15](images/15.PNG)
   ![16](images/16.PNG)
